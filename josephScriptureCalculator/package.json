@@ -1,0 +1,17 @@
+{
+  "name": "joseph-scripture-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A basic calculator in NodeJs",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
